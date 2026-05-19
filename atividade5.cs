@@ -27,4 +27,4 @@ public static class atividade
     }
 }
 
-//A estrutura em for é mais organizada porque utiliza todos os comandos na mesma linha, envés de ir deixando os comandos pra baixo igual a while.
+//A versão com for ficou mais organizada porque o contador, a condição e o incremento ficam todos na mesma linha, deixando o código mais limpo e fácil de entender. já o while também funciona corretamente, mas precisa criar e incrementar a variável separadamente, deixando o código um pouco maior.

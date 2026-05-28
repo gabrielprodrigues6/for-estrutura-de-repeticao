@@ -12,9 +12,9 @@ public static class atividade5
 
 //exercício 3 usando while
 
-public static class atividade
+public static class atividade5while
 {
-    //exercício 3 com uso do for
+
     public static void Executar()
     {
         int contador = 1;
